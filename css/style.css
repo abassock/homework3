@@ -109,6 +109,7 @@ footer{
   min-height:75px;
   background-color:#000000;
   bottom:0;
+  left:0;
   position:fixed;
   text-align:center;
   color: #FFFFFF;
